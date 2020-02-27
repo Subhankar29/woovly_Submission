@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Woovly Social</string>
+    <string name="album_id">Album ID</string>
+    <string name="id">User ID: </string>
+    <string name="title">Title</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="body">Body</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="Comment">Comments : </string>
+</resources>
